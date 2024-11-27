@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "swhX39UOWLg=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Admin\\source\\repos\\Course\\Course\\Course.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\9.0.0\\microsoft.extensions.dependencyinjection.9.0.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.0\\microsoft.extensions.dependencyinjection.abstractions.9.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
